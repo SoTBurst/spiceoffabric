@@ -20,6 +20,7 @@ Conceptually based on [Spice of Life](https://github.com/squeek502/SpiceOfLife) 
 <!-- modrinth_exclude.end -->
 
 ## About
+test
 
 Recent Minecraft versions added new methods of automating your food productions. But:
 
